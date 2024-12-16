@@ -1,0 +1,16 @@
+{
+  "title": "Global\nTechnology\nCommunication",
+  "text": "We are a company primarily focused on Information Technology (IT) solutions. Our expertise encompasses computer networking, network security systems, wireless connectivity, Data Center infrastructure, and various signal transmission systems.",
+  "section": [
+    {
+      "title": "Why choose us?",
+      "content": "We are equipped with skilled engineers, technicians, and the right tools to support all organizations in their growth and success.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Why are we trustworthy?",
+      "content": "Our company boasts extensive experience in providing services and installations for a wide range of sectors, including hospitals, power plants, and educational institutions.",
+      "icon": "notes.svg"
+    }
+  ]
+}
